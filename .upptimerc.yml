@@ -8,6 +8,7 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: t-dev.pages.dev
     url: https://t-dev.pages.dev
+    icon: https://developers.cloudflare.com/_astro/logo.BU9hiExz.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
