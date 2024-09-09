@@ -21,7 +21,7 @@ status-website:
   introMessage: See uptimes below
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/t-thomas-dev/upptime
 
