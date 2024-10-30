@@ -2,7 +2,7 @@
   {
     "name": "t-dev.pages.dev",
     "url": "https://t-dev.pages.dev",
-    "icon": "https://developers.cloudflare.com/_astro/logo.BU9hiExz.svg",
+    "icon": "https://cf-assets.www.cloudflare.com/slt3lc6tev37/CHOl0sUhrumCxOXfRotGt/081f81d52274080b2d026fdf163e3009/cloudflare-icon-color_3x.png",
     "slug": "t-dev-pages-dev",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 177,
-    "timeWeek": 132,
+    "timeDay": 149,
+    "timeWeek": 130,
     "timeMonth": 122,
     "timeYear": 131,
     "dailyMinutesDown": {}
